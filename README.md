@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[Imgur](https://i.imgur.com/BuE48mT.gifv)
-
-https://i.imgur.com/BuE48mT.gifv
+![크기변환 video_AyuDBGSm_HaO7](https://user-images.githubusercontent.com/59356522/153216924-9c3a88f7-2fd3-4fff-a9b3-4c839ab7c73a.gif)
