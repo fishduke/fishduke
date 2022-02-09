@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<iframe class="imgur-embed" width="100%" height="480" frameborder="0" src="https://i.imgur.com/BuE48mT.gifv#embed"></iframe>
+[url=https://imgur.com/BuE48mT]http://i.imgur.com/BuE48mT.gifv[/url]
