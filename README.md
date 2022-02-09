@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-<img alt="image merging" src="https://imgur.com/BuE48mT"/>
+<img alt="image merging" src="https://i.imgur.com/BuE48mT.gifv"/>
