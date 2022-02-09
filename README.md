@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 
 
-[url=https://imgur.com/BuE48mT]http://i.imgur.com/BuE48mT.gifv[/url]
+[Imgur](https://i.imgur.com/BuE48mT.gifv)
