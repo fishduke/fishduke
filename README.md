@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 ###[Private]Event Recognition
 
 ###[made by fishduke] Velocity Measuring Program, it Make character's speed data
+
 ###[made by fishduke] Direction Measuring Program, it Make character's Heading Degree data
+
 ###[made by fishduke] Color Measuring Program, it Make character's color data
 
