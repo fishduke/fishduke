@@ -26,14 +26,13 @@ Here are some ideas to get you started:
 ###[made by fishduke] Video Summarization, 1 hour video is summarize into 5minute under video(it depends on the video's character)
 
 
-
 <a href="https://ibb.co/qRKKn1Y"><img src="https://i.ibb.co/qRKKn1Y/park.gif" alt="park" border="0"></a>
 
-###[made by fishduke] 
+###[made by fishduke] Car_Parking recognition
 
-[url=https://ibb.co/rG4x5bW][img]https://i.ibb.co/rG4x5bW/revers.gif[/img][/url]
+<a href="https://ibb.co/rG4x5bW"><img src="https://i.ibb.co/rG4x5bW/revers.gif" alt="revers" border="0"></a>
 
-###[made by fishduke] 
+###[made by fishduke] Car_Revered driving recognition
 
 
 
