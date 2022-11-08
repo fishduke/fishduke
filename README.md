@@ -26,11 +26,12 @@ Here are some ideas to get you started:
 ###[made by fishduke] Video Summarization, 1 hour video is summarize into 5minute under video(it depends on the video's character)
 
 
-[img]https://i.ibb.co/sFnnP39/park.gif[/img]
+
+[url=https://ibb.co/qRKKn1Y][img]https://i.ibb.co/qRKKn1Y/park.gif[/img][/url] 
 
 ###[made by fishduke] 
 
-[img]https://i.ibb.co/QFrPY85/revers.gif[/img]
+[url=https://ibb.co/rG4x5bW][img]https://i.ibb.co/rG4x5bW/revers.gif[/img][/url]
 
 ###[made by fishduke] 
 
