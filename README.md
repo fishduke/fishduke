@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 
 
 
-[url=https://ibb.co/qRKKn1Y][img]https://i.ibb.co/qRKKn1Y/park.gif[/img][/url] 
+<a href="https://ibb.co/qRKKn1Y"><img src="https://i.ibb.co/qRKKn1Y/park.gif" alt="park" border="0"></a>
 
 ###[made by fishduke] 
 
