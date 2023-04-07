@@ -53,8 +53,8 @@ Here are some ideas to get you started:
 ### 5. 역주행 감지 모듈
 ### 6. 주정차 감지 모듈
 ### 7. 차량 사고 감지 모듈 (1시나리오, 2D)
-### 8. 야간 영상 개선 프로그램(Open API 이용)
-### 9. 저해상 영상 고해상화 프로그램(Open API 이용)
+### 8. [C# & C++]야간 영상 개선 프로그램(Open API 이용)
+### 9. [C# & C++]저해상 영상 고해상화 프로그램(Open API 이용)
 ### 10. 추적 API 호환, 도입
  1) Kalman
  2) SORT
