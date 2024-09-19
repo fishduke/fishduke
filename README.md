@@ -45,10 +45,6 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 
 
 
-
-![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=dracula
-
-
 <!--
 **fishduke/fishduke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
