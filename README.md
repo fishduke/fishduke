@@ -1,13 +1,12 @@
 # Hi there 👋👋
 
 I❤️ code, Python and anything **CREATIVE**✨
-
-[![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:kairess87@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-빵형의%20개발도상국-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg) [![LinkedIn](https://img.shields.io/badge/-Taehee%20Brad%20Lee-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/taehee-brad-lee/)
+[![Youtube Channel](https://img.shields.io/badge/-빵형의%20개발도상국-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg) [![LinkedIn](https://img.shields.io/badge/-Taehee%20Brad%20Lee-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/taehee-brad-lee/)
 ![](https://komarev.com/ghpvc/?username=kairess)
 
 ![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=dracula
 
-[![Gmail Badge](https://img.shields.io/badge/-fishduke22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fishduke22@gmail.com)](fishduke22@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-타로캣%20-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://youtube.com/@fishduke1?si=IFXki4eGWJbdeKC5) [![LinkedIn](https://img.shields.io/badge/-Gunwoo%20%20Kim-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/tarocat/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fishduke22@gmail.com)](fishduke22@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-타로캣%20-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://youtube.com/@fishduke1?si=IFXki4eGWJbdeKC5) [![LinkedIn](https://img.shields.io/badge/-Gunwoo%20%20Kim-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/tarocat/)
 ![](https://komarev.com/ghpvc/?username=fishduke)
 
 
