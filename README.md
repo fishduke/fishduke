@@ -16,7 +16,7 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 
 ## 🤐 OS & Programming Languages
 
-<img src="https://img.shields.io/badge/Windows-DDC624?style=flat-square&logo=Windows&logoColor=white"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/windows-10.png" alt="windows-10"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/Cplusplus-00ADD8?style=flat-square&logo=Cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
+<img width="18" height="18" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/><img src="https://img.shields.io/badge/Windows-DDC624?style=flat-square&logo=Windows&logoColor=white"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/><img src="https://img.shields.io/badge/Cplusplus-00ADD8?style=flat-square&logo=Cplusplus&logoColor=white"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 ## 📘 Bio
