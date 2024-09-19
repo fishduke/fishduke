@@ -1,6 +1,6 @@
 # Hi there 👋👋
 
-I❤️ code, Python and anything **CREATIVE**✨
+I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estimation, Detect Abnormal action✨
 
 ![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=radical)
 
@@ -10,14 +10,15 @@ I❤️ code, Python and anything **CREATIVE**✨
 
 ## 💻 Technologies I Love
 
-- Embedded S/W Programming
 - Deep Learning
 - Image Processing
-
+- Embedded S/W Programming
 
 ## 🤐 Programming Languages
 
-<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="C++" src="https://img.shields.io/badge/C++%20-%23323330.svg?&style=for-the-badge&logo=C++&logoColor=%23F7DF1E"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Cplusplus-00ADD8?style=flat-square&logo=Cplusplus&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/>
 
 
 ## 📘 Bio
