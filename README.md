@@ -1,4 +1,54 @@
-### Hi there 👋
+# Hi there 👋👋
+
+I❤️ code, Python and anything **CREATIVE**✨
+
+[![Gmail Badge](https://img.shields.io/badge/-kairess87@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kairess87@gmail.com)](mailto:kairess87@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-빵형의%20개발도상국-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg) [![LinkedIn](https://img.shields.io/badge/-Taehee%20Brad%20Lee-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/taehee-brad-lee/)
+![](https://komarev.com/ghpvc/?username=kairess)
+
+![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=dracula
+
+[![Gmail Badge](https://img.shields.io/badge/-fishduke22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fishduke22@gmail.com)](fishduke22@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-타로캣%20-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://youtube.com/@fishduke1?si=IFXki4eGWJbdeKC5) [![LinkedIn](https://img.shields.io/badge/-Gunwoo%20%20Kim-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/tarocat/)
+![](https://komarev.com/ghpvc/?username=fishduke)
+
+
+## 💻 Technologies I Love
+
+- Embedded S/W Programming
+- Deep Learning
+- Image Processing
+
+
+## 🤐 Programming Languages
+
+<img alt="Python" src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/> <img alt="JavaScript" src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/> <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white"/>
+
+
+## 📘 Bio
+
+- 🏢 2024.08 건국대학교 정보통신대학원 융합정보기술학 메타버스전공 석사
+- 📱 2013.02 강남대학교 문헌정보학과 학사졸업
+- 🌱 2009.02 효원고등학교 졸업
+  
+- 🌍 YouTuber [타로캣](https://youtube.com/@fishduke1?si=IFXki4eGWJbdeKC5)
+- ✨ 2023.05 ~          DG-ITX 기술연구소 AI 선임연구원
+- ⚙️ 2021.01 ~ 2023.05  Fodics 기술연구소 AI 주임연구원
+- 👯 2020.07 ~ 2020.12  Teratec 기술연구소 AI 연구원
+  
+- 💬 I love to talking about solution business. Don't hesitate to contact me.
+
+
+## 📱 Social Activities
+
+
+## 🔥 Courses
+
+- 
+
+
+
+
+![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=dracula
+
 
 <!--
 **fishduke/fishduke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
