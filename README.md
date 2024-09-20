@@ -14,12 +14,15 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - Image Processing
 - Embedded S/W Programming
 
+
+
 ## 🤐 OS & Programming Languages
 
 <img width="22" height="22" src="https://img.icons8.com/color/48/windows-10.png" alt="windows-10"/><img src="https://img.shields.io/badge/Windows-AB373C?style=flat-square&logo=Windows&logoColor=white"/>
 <img width="30" height="30" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux2&logoColor=white"/>
 <img width="32" height="32" src="https://img.icons8.com/pulsar-color/48/c-plus-plus.png" alt="c-plus-plus"/><img src="https://img.shields.io/badge/Cplusplus-00ADD8?style=flat-square&logo=Cplusplus2&logoColor=white"/>
 <img width="32" height="32" src="https://img.icons8.com/pulsar-color/48/py.png" alt="py"/><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python2&logoColor=white"/>
+
 
 
 ## 📘 Bio
@@ -36,14 +39,21 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - 💬 I love to talking about solution business. Don't hesitate to contact me.
 
 
+
 ## 📱 Social Activities
+
 - 🔭 팀스파르타 창(창업스터디) 5기 멤버
 - 😄 블렌딘(위스키 모임) Family 멤버
 - 🌱 서울데이터과학연구회 회원
 
+
+
 ## 📱 Seminar
-- ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연 </a>
-<a href='https://ifh.cc/v-fBAy4J' target='_blank'><img src='https://ifh.cc/g/fBAy4J.jpg' border='0' width='300px'></a>
+
+- ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연
+
+  
+<a href='https://ifh.cc/v-fBAy4J' target='_blank'><img src='https://ifh.cc/g/fBAy4J.jpg' border='0' width='200px'></a>
 
 
 
