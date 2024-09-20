@@ -71,11 +71,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## ⚙️ 논문
+## ⚙️ Papers
 
 - Color Tracker based on Segmented Image (IPIU 2023) [Color Tracker based on Segmented Image.pdf](https://github.com/user-attachments/files/17068565/Color.Tracker.based.on.Segmented.Image.pdf)
-  
 - 객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델 (석사 졸업논문 2024) [객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델.pdf](https://github.com/user-attachments/files/17068702/default.pdf)
+
 
   
 ## 🔥 What Made
