@@ -7,6 +7,8 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 
 ![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=radical)
 
+- 💬 I love to talking about solution business. Don't hesitate to contact me.
+  
 ## 💻 Technologies I Love
 
 - Deep Learning
@@ -35,7 +37,6 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - ⚙️ 2021.01 ~ 2023.05  Fodics 기술연구소 AI 주임연구원
 - 👯 2020.07 ~ 2020.12  Teratec 기술연구소 AI 연구원
   
-- 💬 I love to talking about solution business. Don't hesitate to contact me.
 
 
 
