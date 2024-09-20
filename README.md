@@ -80,19 +80,5 @@ Here are some ideas to get you started:
   
 ## 🔥 What Made
 
-- 🤔역주행 감지 모듈
-  
-<a href="https://ibb.co/CzS6WVx"><img src="https://i.ibb.co/CzS6WVx/revers2.gif" alt="revers2" border="0"></a> 
-
-- 📫주정차 감지 모듈
-  
-<a href="https://ibb.co/HBSJJPR"><img src="https://i.ibb.co/HBSJJPR/park2.gif" alt="park2" border="0"></a>
-
-- 💬근무태도 인지 모듈
-  
-![크기변환 video_AyuDBGSm_HaO7](https://user-images.githubusercontent.com/59356522/153216924-9c3a88f7-2fd3-4fff-a9b3-4c839ab7c73a.gif)
-
-- 🔭영상 요약 솔루션
-  
-![ezgif-4-1fddd3efc0](https://user-images.githubusercontent.com/59356522/170148032-215d5a5a-5693-4ec9-a3df-40baa98fbf7b.gif)
+- https://rural-player-d16.notion.site/Portfolio-3be48c4f61aa4eb990b2ff5135d80620?pvs=74
 
