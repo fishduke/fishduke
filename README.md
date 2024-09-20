@@ -46,7 +46,7 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - 😄 블렌딘(위스키 모임) Family 멤버
 - 🌱 서울데이터과학연구회 회원
 - 👯 플렉스(창업스터디) 멤버
-
+- ⚡ AI 리서치 클럽 1기 멤버
 
 ## 📱 Seminar
 
