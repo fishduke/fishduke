@@ -31,7 +31,7 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - 🏢 2024.08 건국대학교 정보통신대학원 융합정보기술학 메타버스전공 석사
 - 📱 2013.02 강남대학교 문헌정보학과 학사졸업
 - 🌱 2009.02 효원고등학교 졸업
-  
+
 - 🌍 YouTuber [타로캣](https://youtube.com/@fishduke1?si=IFXki4eGWJbdeKC5)
 - ✨ 2023.05 ~          DG-ITX 기술연구소 AI 선임연구원
 - ⚙️ 2021.01 ~ 2023.05  Fodics 기술연구소 AI 주임연구원
