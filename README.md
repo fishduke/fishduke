@@ -25,7 +25,7 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 
 
 
-## 📘 Bio
+## 📘 Biography
 
 - 🏢 2024.08 건국대학교 정보통신대학원 융합정보기술학 메타버스전공 석사
 - 📱 2013.02 강남대학교 문헌정보학과 학사졸업
@@ -52,7 +52,6 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 
 - ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연
 
-  
 <a href='https://ifh.cc/v-fBAy4J' target='_blank'><img src='https://ifh.cc/g/fBAy4J.jpg' border='0' width='200px'></a>
 
 
@@ -72,6 +71,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## ⚙️ 논문
+
+- Color Tracker based on Segmented Image (IPIU 2023) [Color Tracker based on Segmented Image.pdf](https://github.com/user-attachments/files/17068565/Color.Tracker.based.on.Segmented.Image.pdf)
+  
+- 객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델 (석사 졸업논문 2024) [객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델.pdf](https://github.com/user-attachments/files/17068702/default.pdf)
+
+  
 ## 🔥 What Made
 
 - 🤔역주행 감지 모듈
@@ -90,8 +96,3 @@ Here are some ideas to get you started:
   
 ![ezgif-4-1fddd3efc0](https://user-images.githubusercontent.com/59356522/170148032-215d5a5a-5693-4ec9-a3df-40baa98fbf7b.gif)
 
-## 논문
-
-- Color Tracker based on Segmented Image (IPIU 2023) [Color Tracker based on Segmented Image.pdf](https://github.com/user-attachments/files/17068565/Color.Tracker.based.on.Segmented.Image.pdf)
-  
-- 객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델 (석사 졸업논문 2024) [객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델.pdf](https://github.com/user-attachments/files/17068702/default.pdf)
