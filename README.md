@@ -40,8 +40,9 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - 🔭 팀스파르타 창(창업스터디) 5기 멤버
 - 😄 블렌딘(위스키 모임) Family 멤버
 - 🌱 서울데이터과학연구회 회원
-  
-### ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연
+
+## 📱 Seminar
+- ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연
 <a href='https://ifh.cc/v-fBAy4J' target='_blank'><img src='https://ifh.cc/g/fBAy4J.jpg' border='0' width='300px'></a>
 
 
@@ -63,16 +64,18 @@ Here are some ideas to get you started:
 
 ## 🔥 What Made
 
-# 🤔역주행 감지 모듈
+- 🤔역주행 감지 모듈
 <a href="https://ibb.co/CzS6WVx"><img src="https://i.ibb.co/CzS6WVx/revers2.gif" alt="revers2" border="0"></a> 
 
-# 📫주정차 감지 모듈
+- 📫주정차 감지 모듈
 <a href="https://ibb.co/HBSJJPR"><img src="https://i.ibb.co/HBSJJPR/park2.gif" alt="park2" border="0"></a>
 
-# 💬근무태도 인지 모듈
+- 💬근무태도 인지 모듈
 ![크기변환 video_AyuDBGSm_HaO7](https://user-images.githubusercontent.com/59356522/153216924-9c3a88f7-2fd3-4fff-a9b3-4c839ab7c73a.gif)
 
-# 🔭영상 요약 솔루션
+- 🔭영상 요약 솔루션
 ![ezgif-4-1fddd3efc0](https://user-images.githubusercontent.com/59356522/170148032-215d5a5a-5693-4ec9-a3df-40baa98fbf7b.gif)
 
-
+## 논문
+- Color Tracker based on Segmented Image (IPIU 2023) [Color Tracker based on Segmented Image.pdf](https://github.com/user-attachments/files/17068565/Color.Tracker.based.on.Segmented.Image.pdf)
+- 객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델 (석사 졸업논문 2024) [객체 메타데이터를 활용해 재인식율을 높이기 위한 그래프 모델.pdf](https://github.com/user-attachments/files/17068702/default.pdf)
