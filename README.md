@@ -41,7 +41,7 @@ I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estima
 - 😄 블렌딘(위스키 모임) Family 멤버
 - 🌱 서울데이터과학연구회 회원
   
-# ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연
+### ✨ 24.08.10 서울데이터과학연구회 지능형 CCTV 강연
 <a href='https://ifh.cc/v-fBAy4J' target='_blank'><img src='https://ifh.cc/g/fBAy4J.jpg' border='0' width='300px'></a>
 
 
