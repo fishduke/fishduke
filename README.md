@@ -2,11 +2,10 @@
 
 I❤️ AI, I have experienced in Classify, Tracking, 3D Generation, Pose Estimation, Detect Abnormal action✨
 
-![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=radical)
-
 [![Gmail Badge](https://img.shields.io/badge/-fishduke22@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:fishduke22@gmail.com)](fishduke22@gmail.com) [![Youtube Channel](https://img.shields.io/badge/-타로캣%20-c14438?style=flat-square&logo=Youtube&link=https://www.youtube.com/channel/UC9PB9nKYqKEx_N3KM-JVTpg)](https://youtube.com/@fishduke1?si=IFXki4eGWJbdeKC5) [![LinkedIn](https://img.shields.io/badge/-Gunwoo%20%20Kim-c14438?style=flat-square&logo=LinkedIn)](https://www.linkedin.com/in/tarocat/)
 ![](https://komarev.com/ghpvc/?username=fishduke)
 
+![fishduke's GitHub stats](https://github-readme-stats.vercel.app/api?username=fishduke&show_icons=true&theme=radical)
 
 ## 💻 Technologies I Love
 
